@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Starter app ",
+  "main": "index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "bootstrap": "3.3.7",
+    "jquery": "2.2.4"
+  }
+}
